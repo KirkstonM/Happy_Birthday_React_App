@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Happy_Birthday_React_App/static/css/main.1a8ac852.css",
+    "main.js": "/Happy_Birthday_React_App/static/js/main.1c174317.js",
+    "static/js/787.d4aba7ab.chunk.js": "/Happy_Birthday_React_App/static/js/787.d4aba7ab.chunk.js",
+    "static/media/poem_image.jpg": "/Happy_Birthday_React_App/static/media/poem_image.017c1a99abef7eaee959.jpg",
+    "static/media/image23.jpg": "/Happy_Birthday_React_App/static/media/image23.f89ea89fc63ca07e6dcc.jpg",
+    "static/media/story_image.jpg": "/Happy_Birthday_React_App/static/media/story_image.b036f376f82201530c39.jpg",
+    "static/media/image22.jpg": "/Happy_Birthday_React_App/static/media/image22.016f9178079716e4d7bd.jpg",
+    "static/media/image3.jpg": "/Happy_Birthday_React_App/static/media/image3.b20d307222e4f928bff8.jpg",
+    "static/media/image15.jpg": "/Happy_Birthday_React_App/static/media/image15.6870c8f40300a3989e8c.jpg",
+    "static/media/image16.jpg": "/Happy_Birthday_React_App/static/media/image16.2c877fd549faa63907b7.jpg",
+    "static/media/image5.jpg": "/Happy_Birthday_React_App/static/media/image5.741b74b2de5ca4aba0a2.jpg",
+    "static/media/image17.jpg": "/Happy_Birthday_React_App/static/media/image17.b82683667e821ecf7e66.jpg",
+    "static/media/image18.jpg": "/Happy_Birthday_React_App/static/media/image18.243bd25a68b9b4ed30e0.jpg",
+    "static/media/image2.jpg": "/Happy_Birthday_React_App/static/media/image2.c43aee7deafa989afeba.jpg",
+    "static/media/image6.jpg": "/Happy_Birthday_React_App/static/media/image6.0e96400b6234fa1da6e7.jpg",
+    "static/media/image27.jpg": "/Happy_Birthday_React_App/static/media/image27.3444d6acdff043b8fc35.jpg",
+    "static/media/image12.jpg": "/Happy_Birthday_React_App/static/media/image12.c2a24e923ee119a8337e.jpg",
+    "static/media/image20.jpg": "/Happy_Birthday_React_App/static/media/image20.11e4f917b43c0237db2d.jpg",
+    "static/media/image4.jpg": "/Happy_Birthday_React_App/static/media/image4.c784e0ce5f8eee608af4.jpg",
+    "static/media/image14.jpg": "/Happy_Birthday_React_App/static/media/image14.ea658cf0f0891b9f2320.jpg",
+    "static/media/image21.jpg": "/Happy_Birthday_React_App/static/media/image21.8d8cc042dbf814b27ead.jpg",
+    "static/media/image11.jpg": "/Happy_Birthday_React_App/static/media/image11.68a2e04ae629625bc4e1.jpg",
+    "static/media/image13.jpg": "/Happy_Birthday_React_App/static/media/image13.bc6ed2fa8f2f1b442e71.jpg",
+    "static/media/image25.jpg": "/Happy_Birthday_React_App/static/media/image25.6805803a340de60b803f.jpg",
+    "static/media/image19.jpg": "/Happy_Birthday_React_App/static/media/image19.cde95514ed31df3af10d.jpg",
+    "static/media/image10.jpg": "/Happy_Birthday_React_App/static/media/image10.7428d27e3d71a4481222.jpg",
+    "static/media/image26.jpg": "/Happy_Birthday_React_App/static/media/image26.89747c955337769bd182.jpg",
+    "static/media/image8.jpg": "/Happy_Birthday_React_App/static/media/image8.29b213371a073204fed7.jpg",
+    "static/media/image7.jpg": "/Happy_Birthday_React_App/static/media/image7.835eab06a008ce50e2ab.jpg",
+    "static/media/image9.jpg": "/Happy_Birthday_React_App/static/media/image9.5ac8817bbf07010ccedb.jpg",
+    "static/media/birth.png": "/Happy_Birthday_React_App/static/media/birth.2d74c521a0f60802be0a.png",
+    "index.html": "/Happy_Birthday_React_App/index.html",
+    "main.1a8ac852.css.map": "/Happy_Birthday_React_App/static/css/main.1a8ac852.css.map",
+    "main.1c174317.js.map": "/Happy_Birthday_React_App/static/js/main.1c174317.js.map",
+    "787.d4aba7ab.chunk.js.map": "/Happy_Birthday_React_App/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a8ac852.css",
+    "static/js/main.1c174317.js"
+  ]
+}
