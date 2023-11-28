@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Happy_Birthday_React_App/static/css/main.1a8ac852.css",
-    "main.js": "/Happy_Birthday_React_App/static/js/main.14acaa88.js",
+    "main.js": "/Happy_Birthday_React_App/static/js/main.f0fc9548.js",
     "static/js/787.d4aba7ab.chunk.js": "/Happy_Birthday_React_App/static/js/787.d4aba7ab.chunk.js",
     "static/media/poem_image.jpg": "/Happy_Birthday_React_App/static/media/poem_image.017c1a99abef7eaee959.jpg",
     "static/media/image23.jpg": "/Happy_Birthday_React_App/static/media/image23.f89ea89fc63ca07e6dcc.jpg",
@@ -33,11 +33,11 @@
     "static/media/birth.png": "/Happy_Birthday_React_App/static/media/birth.2d74c521a0f60802be0a.png",
     "index.html": "/Happy_Birthday_React_App/index.html",
     "main.1a8ac852.css.map": "/Happy_Birthday_React_App/static/css/main.1a8ac852.css.map",
-    "main.14acaa88.js.map": "/Happy_Birthday_React_App/static/js/main.14acaa88.js.map",
+    "main.f0fc9548.js.map": "/Happy_Birthday_React_App/static/js/main.f0fc9548.js.map",
     "787.d4aba7ab.chunk.js.map": "/Happy_Birthday_React_App/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1a8ac852.css",
-    "static/js/main.14acaa88.js"
+    "static/js/main.f0fc9548.js"
   ]
 }
