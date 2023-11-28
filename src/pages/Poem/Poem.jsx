@@ -42,7 +42,8 @@ function Poem() {
           style={{
             lineHeight: '2rem',
             fontWeight: 'bold',
-            fontStyle: "italic"
+            fontStyle: "italic",
+            color : "white"
           }}
         >
           You have become my closest friend.
