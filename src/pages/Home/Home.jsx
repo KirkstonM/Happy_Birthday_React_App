@@ -8,19 +8,14 @@ import useWindowSize from 'react-use/lib/useWindowSize'
 
 function Home() {
 
-  const [countDown, setCountDown] = useState(3);
+  const [countDown, setCountDown] = useState(5);
   const [confettiFire, setConfettiFire] = useState(false);
   const { width, height } = useWindowSize()
 
 
   useEffect(() => {
-    const storedConfettiFire = localStorage.getItem('confettiFire');
-  
-    const handleUnload = () => {
-      // Clear local storage on page refresh or tab closure
-      localStorage.removeItem('confettiFire');
-    };
-  
+    const storedConfettiFire = sessionStorage.getItem('confettiFire');
+
     if (storedConfettiFire === 'true') {
       setConfettiFire(true);
     } else {
@@ -29,18 +24,17 @@ function Home() {
           const updatedCount = prev - 1;
           if (updatedCount === 0) {
             setConfettiFire(true);
-            localStorage.setItem('confettiFire', 'true');
+            sessionStorage.setItem('confettiFire', 'true');
             clearInterval(timer);
           }
           return updatedCount;
         });
       }, 1000);
-  
-      window.addEventListener('beforeunload', handleUnload);
-  
+      // sessionStorage.removeItem('confettiFire')
+
       return () => {
         clearInterval(timer);
-        window.removeEventListener('beforeunload', handleUnload);
+        // sessionStorage.removeItem('confettiFire');
       };
     }
   }, []);
