@@ -10,14 +10,14 @@ export const routes = [
         displayName: 'Home'
     },
     {
-        path: '/poem',
-        element: Poem,
-        displayName: 'Poem'
-    },
-    {
         path: '/story',
         element: Story,
         displayName: 'Story'
+    },
+    {
+        path: '/poem',
+        element: Poem,
+        displayName: 'Poem'
     },
     {
         path : '/gallery',
